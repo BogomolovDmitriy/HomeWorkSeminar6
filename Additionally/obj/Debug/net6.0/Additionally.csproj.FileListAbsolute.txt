@@ -1,0 +1,15 @@
+D:\Programs\Обучение программированию\Домашняя работа\Seminar6\Additionally\bin\Debug\net6.0\Additionally.exe
+D:\Programs\Обучение программированию\Домашняя работа\Seminar6\Additionally\bin\Debug\net6.0\Additionally.deps.json
+D:\Programs\Обучение программированию\Домашняя работа\Seminar6\Additionally\bin\Debug\net6.0\Additionally.runtimeconfig.json
+D:\Programs\Обучение программированию\Домашняя работа\Seminar6\Additionally\bin\Debug\net6.0\Additionally.dll
+D:\Programs\Обучение программированию\Домашняя работа\Seminar6\Additionally\bin\Debug\net6.0\Additionally.pdb
+D:\Programs\Обучение программированию\Домашняя работа\Seminar6\Additionally\obj\Debug\net6.0\Additionally.csproj.AssemblyReference.cache
+D:\Programs\Обучение программированию\Домашняя работа\Seminar6\Additionally\obj\Debug\net6.0\Additionally.GeneratedMSBuildEditorConfig.editorconfig
+D:\Programs\Обучение программированию\Домашняя работа\Seminar6\Additionally\obj\Debug\net6.0\Additionally.AssemblyInfoInputs.cache
+D:\Programs\Обучение программированию\Домашняя работа\Seminar6\Additionally\obj\Debug\net6.0\Additionally.AssemblyInfo.cs
+D:\Programs\Обучение программированию\Домашняя работа\Seminar6\Additionally\obj\Debug\net6.0\Additionally.csproj.CoreCompileInputs.cache
+D:\Programs\Обучение программированию\Домашняя работа\Seminar6\Additionally\obj\Debug\net6.0\Additionally.dll
+D:\Programs\Обучение программированию\Домашняя работа\Seminar6\Additionally\obj\Debug\net6.0\refint\Additionally.dll
+D:\Programs\Обучение программированию\Домашняя работа\Seminar6\Additionally\obj\Debug\net6.0\Additionally.pdb
+D:\Programs\Обучение программированию\Домашняя работа\Seminar6\Additionally\obj\Debug\net6.0\Additionally.genruntimeconfig.cache
+D:\Programs\Обучение программированию\Домашняя работа\Seminar6\Additionally\obj\Debug\net6.0\ref\Additionally.dll
